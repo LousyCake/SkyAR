@@ -63,7 +63,10 @@ To use SkyAR GUI:
 10. **Save Path:** Specifies the directory path for saving the modified video file.
 
 ## Screenshots
-*No screenshots provided*
+1. ![Screenshot 1](ss/1.png)
+2. ![Screenshot 2](ss/2.png)
+3. ![Screenshot 3](ss/3.png)
+4. ![Screenshot 4](ss/4.png)
 
 ## Contributing
 Contributions to SkyAR GUI are welcome! If you encounter any bugs, have feature requests, or want to contribute enhancements, feel free to submit pull requests.
